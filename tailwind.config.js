@@ -40,7 +40,7 @@ module.exports = {
       },
       backgroundImage: {
         'hero-pattern':
-          "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+          "url('https://apploye.com/static/3c664bb338c4de12cf74c46d7d45d06f/69278/virtual-assistant-companies-in-the-philippines.png')",
       },
     },
   },
